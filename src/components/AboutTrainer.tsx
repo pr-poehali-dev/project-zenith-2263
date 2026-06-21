@@ -6,27 +6,27 @@ export function AboutTrainer() {
           {/* Image */}
           <div className="relative h-96 md:h-full min-h-96">
             <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-accent/5 rounded-2xl"></div>
-            <img src="/professional-trainer-headshot-smiling.jpg" alt="Тренер" className="w-full h-full object-cover rounded-2xl" />
+            <img src="https://cdn.poehali.dev/projects/bfa66001-7a53-421e-8096-75b9d76d3af7/files/ca708c0e-a1df-4c85-b354-b7ad2d925d83.jpg" alt="Адвокат Мамедова Елена Сергеевна" className="w-full h-full object-cover rounded-2xl" />
           </div>
 
           {/* Content */}
           <div className="flex flex-col gap-6">
             <div>
-              <p className="text-accent font-semibold text-sm uppercase tracking-wide">О наставнике</p>
+              <p className="text-accent font-semibold text-sm uppercase tracking-wide">Об адвокате</p>
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-2 text-balance">
-                Ваш коуч по успеху в VA
+                Мамедова Елена Сергеевна
               </h2>
             </div>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Более 10 лет опыта в виртуальном ассистировании и бизнес-операциях. Я помогла сотням
-              специалистов освоить навыки, необходимые для успеха в этой динамичной сфере.
+              Более 20 лет в сфере юридических услуг. До получения статуса адвоката успешно работала
+              в Следственном комитете, что даёт уникальный опыт в решении самых сложных дел.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
-              Моя экспертиза охватывает административный менеджмент, коммуникацию с клиентами, координацию
-              проектов и владение цифровыми инструментами. Опыт работы с компаниями Fortune 500 и стартапами
-              дает мне уникальное понимание того, что действительно ценят работодатели.
+              За годы практики Елена Сергеевна зарекомендовала себя как надёжный и результативный
+              специалист. У адвоката есть собственная команда юристов с опытом более 8 лет, готовая
+              помочь вам в любой ситуации с полным знанием всех нюансов.
             </p>
 
             <div className="space-y-4 pt-4">
@@ -35,8 +35,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Сертифицированный коуч VA</p>
-                  <p className="text-sm text-muted-foreground">Признание лидерами отрасли</p>
+                  <p className="font-semibold text-foreground">Опыт работы в Следственном комитете</p>
+                  <p className="text-sm text-muted-foreground">Знание системы изнутри</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -44,8 +44,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">500+ выпускников</p>
-                  <p className="text-sm text-muted-foreground">95% карьерного роста</p>
+                  <p className="font-semibold text-foreground">Более 1500 выигранных дел</p>
+                  <p className="text-sm text-muted-foreground">Результативность и надёжность</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -53,8 +53,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Персональный подход</p>
-                  <p className="text-sm text-muted-foreground">Адаптация под ваши цели</p>
+                  <p className="font-semibold text-foreground">Работа по договору</p>
+                  <p className="text-sm text-muted-foreground">Прозрачность и конфиденциальность</p>
                 </div>
               </div>
             </div>
